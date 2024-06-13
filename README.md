@@ -1,3 +1,8 @@
+SpringBoot-Excel-Export
+------------------------
+In this project, the data present in the MySQL database is downloaded in the form of an Excel file (.CSV format). 
+When you navigate to 'localhost:8080\excel' in your browser URL, the file is downloaded automatically.
+
 What is Apache POI
 =====================
 ->Apache POI is an open-source java library to create and manipulate various file formats.
